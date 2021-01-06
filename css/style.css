@@ -162,3 +162,125 @@ manu-ber{
     font-size: 14px;
     color: dimgray;
 }
+
+/* working area end */
+.bg-area{
+    height: 400PX;
+    background-image: url("../imges/Apps.jpg");
+    background-position: center;
+    background-repeat: repeat;
+    margin-top: 70PX;
+}
+
+.count-item{
+    float: left;
+    
+    
+}
+
+.cound-pragrap{
+    padding-top: 200px;
+    margin-left: 150px;
+    color:floralwhite;
+    text-align:center;
+    font-size: 50px;
+    font-family: 'Poppins', sans-serif;
+}
+
+.cound-span{
+    margin-left: 150px;
+    color:floralwhite;
+    font-family: 'Poppins', sans-serif;
+    font-size: 16px;
+    font-weight:300;
+}
+
+.overflow{
+    width: 100%;
+    height: 100%;
+background-color: rgba(0, 0, 0, 0.575); 
+}
+
+.INQUIRY{
+    height: 150PX;
+    background-image: url("../imges/Group_33094_1.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: coverD;
+    margin: 200PX 50PX;;
+    border-radius: 20PX;
+    
+}   
+.list-one{
+    float: left;
+    line-height: 150px;
+}
+.last-item{
+    line-height: 150px;
+    font-family: 'Poppins', sans-serif;
+    font-size: 50px;
+    color:white;
+    float: left;
+    margin-left: 40px;
+}
+.list-two{
+    line-height: 150px;
+    float: right;
+    margin-left: 40px; 
+    
+}
+.ancor{
+    margin-right:60px;
+    text-decoration:none;
+    padding: 10px 20px;
+    background-image: linear-gradient( lightSalmon,tomato);
+    font-family: 'Poppins', sans-serif;
+    color:white;
+    border-radius: 5px;;
+}
+/*  */
+.last-section{
+     height: 100px;
+     
+}
+.finel-heading{
+  text-align: center;
+  font-family: 'Poppins', sans-serif;
+  font-size: 20px;
+  color: dimgray;
+  font-weight: 300;
+}
+
+
+.finel-heading-two{
+  text-align: center;
+  font-family: 'Poppins', sans-serif;
+  font-size: 30px;
+}
+.icon-link{
+    text-align: center;
+    
+} 
+.first-icon{
+    margin-left: 570px;
+}
+
+.link-icon{
+    width: 35px;
+    height:35px;
+    margin-left: 20px;
+    margin-bottom: 30px;
+}
+
+.footer-section{
+    height: 50px;
+    background-color:black;
+}
+.footer-pra{
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+    color: whitesmoke;
+    font-size: 14px;
+    line-height: 50px;
+
+}
