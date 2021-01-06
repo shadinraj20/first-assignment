@@ -29,6 +29,7 @@ manu-ber{
     color: black;
     font-size: 30px;
     font-family: 'Poppins', sans-serif;
+    
 
 }
 /* menu area end */
@@ -72,6 +73,7 @@ manu-ber{
     font-family: 'Poppins', sans-serif;
     color:white;
     margin-top: 20px;
+    border-radius: 5px;
 }
 
 .imge{
@@ -174,12 +176,21 @@ manu-ber{
 
 .count-item{
     float: left;
+    padding-bottom: 200px;
     
     
 }
-
+i{
+  padding-left: 10px;
+  height:100px;
+  width: 100px;
+  color:white;
+  border-radius: 50%;
+  border:2px solid;
+  margin-left: 180px;
+  
+}
 .cound-pragrap{
-    padding-top: 200px;
     margin-left: 150px;
     color:floralwhite;
     text-align:center;
