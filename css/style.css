@@ -10,9 +10,7 @@
   
 }
 
-manu-ber{
-    float: left;
-}
+
 .unorder-list{
     list-style:none;
     float:right;
@@ -176,19 +174,18 @@ manu-ber{
 
 .count-item{
     float: left;
-    padding-bottom: 200px;
+    
     
     
 }
+
 i{
-  padding-left: 10px;
-  height:100px;
-  width: 100px;
-  color:white;
-  border-radius: 50%;
-  border:2px solid;
-  margin-left: 180px;
-  
+    margin-left: 50px;
+    font-size: 40px;
+    color:thistle;
+    padding-left: 150px;
+    padding-top: 160px;
+    w
 }
 .cound-pragrap{
     margin-left: 150px;
@@ -273,7 +270,7 @@ background-color: rgba(0, 0, 0, 0.575);
     
 } 
 .first-icon{
-    margin-left: 570px;
+    margin-left: 520px;
 }
 
 .link-icon{
